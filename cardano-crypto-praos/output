@@ -1,0 +1,1 @@
+-L/nix/store/n15916zwz3m05mx883139nan3m0zkf4i-libsodium-1.0.18/lib -lsodium -pthread

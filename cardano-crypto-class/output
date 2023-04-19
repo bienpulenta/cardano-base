@@ -1,0 +1,1 @@
+-L/nix/store/n15916zwz3m05mx883139nan3m0zkf4i-libsodium-1.0.18/lib -L/nix/store/f3ly6m89qlk2gj21zha8ikq0qh7a7p8g-secp256k1-0.2.0/lib -lsodium -pthread -lsecp256k1
